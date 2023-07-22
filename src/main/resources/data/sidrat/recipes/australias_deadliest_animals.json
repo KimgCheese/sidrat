@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LEL",
+    "LLL"
+  ],
+  "key": {
+    "E": {
+      "item": "sidrat:cheese"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "sidrat:australia_song_disc",
+    "count": 1
+  }
+}

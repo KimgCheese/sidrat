@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " U ",
+    "LCR",
+    " D "
+  ],
+  "key": {
+    "C": {
+      "item": "sidrat:tardiscore"
+    },
+    "R": {
+      "item": "sidrat:vortexmodule"
+    },
+    "L": {
+      "item": "sidrat:artronenergymodule"
+    },
+    "U": {
+      "item": "sidrat:cloistermodule"
+    },
+    "D": {
+      "item": "sidrat:reinforcermodule"
+    }
+  },
+  "result": {
+    "item": "tardis:broken_exterior"
+  }
+}

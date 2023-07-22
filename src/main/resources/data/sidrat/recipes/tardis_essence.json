@@ -1,0 +1,24 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QEQ",
+    "EXE",
+    "QEQ"
+  ],
+  "key": {
+    "E": {
+      "item": "securitycraft:reinforced_gold_block"
+    },
+    "X": {
+      "item": "bloodmagic:masterbloodorb"
+    },
+    "Q": {
+      "item": "mekanism:block_steel"
+    }
+  },
+  "result": {
+    "item": "sidrat:tardis_essence",
+    "count": 1
+  }
+}

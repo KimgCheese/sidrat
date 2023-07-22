@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XPX",
+    "EBE",
+    "XCX"
+  ],
+  "key": {
+    "E": {
+      "item": "mekanism:industrial_alarm"
+    },
+    "X": {
+      "item": "securitycraft:motion_activated_light"
+    },
+    "P": {
+      "item": "securitycraft:panic_button"
+    },
+    "C": {
+      "item": "tardis:circuits"
+    },
+    "B": {
+      "item": "minecraft:bell"
+    }
+  },
+  "result": {
+    "item": "sidrat:cloistermodule"
+  }
+}

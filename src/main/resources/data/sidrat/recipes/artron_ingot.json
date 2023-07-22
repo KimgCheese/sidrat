@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "sidrat:artron_dust"
+  },
+  "result": "sidrat:artron_ingot",
+  "experience": 0.5,
+  "cookingtime": 300
+}

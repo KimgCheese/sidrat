@@ -1,0 +1,26 @@
+{
+    "ten_doctor_theme": {
+    "sounds": [
+      {
+        "name": "sidrat:ten_doctor_theme",
+        "stream": true
+      }
+    ]
+  },
+  "australia_deadliest_animals": {
+    "sounds": [
+      {
+        "name": "sidrat:australia_deadliest_animals",
+        "stream": true
+      }
+    ]
+  },
+  "i_am_the_doctor": {
+    "sounds": [
+      {
+        "name": "sidrat:i_am_the_doctor",
+        "stream": true
+      }
+    ]
+  }
+}

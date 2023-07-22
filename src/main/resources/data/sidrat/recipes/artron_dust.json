@@ -1,0 +1,19 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "sidrat:xion_dust"
+    },
+    {
+      "item": "sidrat:gaia_dust"
+    }
+  ],
+  "result": {
+    "item": "sidrat:artron_dust",
+    "count": 1
+  }
+}

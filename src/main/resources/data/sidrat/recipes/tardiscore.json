@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XAT",
+    "LEF",
+    "TIX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "T": {
+      "item": "minecraft:conduit"
+    },
+    "A": {
+      "item": "bloodmagic:masterbloodorb"
+    },
+    "E": {
+      "item": "tardis:ars_egg"
+    },
+    "L": {
+      "item": "tardis:pocketwatch"
+    },
+    "F": {
+      "item": "create_stuff_additions:refined_radiance_exoskeleton_chestplate"
+    },
+    "I": {
+      "item": "sidrat:tardis_essence"
+    }
+  },
+  "result": {
+    "item": "sidrat:tardiscore"
+  }
+}

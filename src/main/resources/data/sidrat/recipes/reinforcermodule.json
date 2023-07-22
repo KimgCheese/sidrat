@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QEX",
+    "EBE",
+    "XEQ"
+  ],
+  "key": {
+    "E": {
+      "item": "sidrat:artron_ingot"
+    },
+    "X": {
+      "item": "securitycraft:reinforced_netherite_block"
+    },
+    "Q": {
+      "item": "securitycraft:reinforced_obsidian"
+    },
+    "B": {
+      "item": "securitycraft:universal_block_reinforcer_lvl2"
+    }
+  },
+  "result": {
+    "item": "sidrat:reinforcermodule"
+  }
+}

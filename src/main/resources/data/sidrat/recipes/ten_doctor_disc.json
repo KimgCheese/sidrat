@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LEL",
+    "LLL"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "sidrat:ten_doctor_theme_disc",
+    "count": 1
+  }
+}

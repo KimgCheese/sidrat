@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XPQ",
+    "EBE",
+    "QPX"
+  ],
+  "key": {
+    "E": {
+      "item": "tardis:vortex_detector"
+    },
+    "X": {
+      "item": "rftoolsutility:matter_transmitter"
+    },
+    "Q": {
+      "item": "minecraft:ender_eye"
+    },
+    "P": {
+      "item": "rftoolsutility:matter_receiver"
+    },
+    "B": {
+      "item": "tardis:vm"
+    }
+  },
+  "result": {
+    "item": "sidrat:vortexmodule"
+  }
+}

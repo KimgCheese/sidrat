@@ -1,0 +1,24 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "QEQ",
+    "III"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:yellow_stained_glass_pane"
+    },
+    "I": {
+      "item": "mekanism:ingot_steel"
+    },
+    "Q": {
+      "item": "tardis:circuits"
+    }
+  },
+  "result": {
+    "item": "tardis:space_helm",
+    "count": 1
+  }
+}

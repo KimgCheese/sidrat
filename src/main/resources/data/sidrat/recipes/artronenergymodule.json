@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XEG",
+    "NBN",
+    "QEX"
+  ],
+  "key": {
+    "E": {
+      "item": "tardis:manual"
+    },
+    "X": {
+      "item": "tardis:artron_capacitor_high"
+    },
+    "Q": {
+      "item": "tardis:artron_collector"
+    },
+    "G": {
+      "item": "tardis:artron_pylon"
+    },
+    "B": {
+      "item": "regen:fobwatch"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "sidrat:artronenergymodule"
+  }
+}

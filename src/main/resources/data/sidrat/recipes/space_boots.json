@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "E E",
+    "I I"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "mekanism:ingot_steel"
+    }
+  },
+  "result": {
+    "item": "tardis:space_boots",
+    "count": 1
+  }
+}
