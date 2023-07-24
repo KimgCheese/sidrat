@@ -13,7 +13,7 @@
       "item": "minecraft:conduit"
     },
     "A": {
-      "item": "bloodmagic:masterbloodorb"
+      "item": "minecraft:netherite_block"
     },
     "E": {
       "item": "tardis:ars_egg"
@@ -22,7 +22,7 @@
       "item": "tardis:pocketwatch"
     },
     "F": {
-      "item": "create_stuff_additions:refined_radiance_exoskeleton_chestplate"
+      "item": "securitycraft:remote_access_sentry"
     },
     "I": {
       "item": "sidrat:tardis_essence"
