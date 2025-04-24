@@ -43,7 +43,7 @@ public class ModItems {
             () -> new Item(new Item.Properties().group(ModItemGroup.SIDRAT_GROUP)));
 
     public static final RegistryObject<Item> CHEESE = ITEMS.register("cheese",
-            () -> new Item(new Item.Properties().group(ModItemGroup.SIDRAT_GROUP)));
+            () -> new Item((new Item.Properties()).food(new Food.Builder().nutrition(4).saturationMod(2).build()).group(ModItemGroup.SIDRAT_GROUP).rarity(Rarity.EPIC).fireResistant()));
 
     public static final RegistryObject<Item> ARTRONENERGYMODULE = ITEMS.register("artronenergymodule",
             () -> new Item(new Item.Properties().group(ModItemGroup.SIDRAT_GROUP)));
